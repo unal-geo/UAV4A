@@ -1,14 +1,24 @@
-## Welcome to Remote Sensing for All Lab
+## UAV for Agriculture 
 
-The challenges of sustainable development require new forms of research or cooperation. It is only trough collective learning that the ideas of individuals can turn into actions.
-
-Remote sensing data and technologies provide an unique opportunity to understanding territories and to reshape our thinking for achieving the objectives of sustainable development. Our Lab is committed to diffuse remote sensing concepts, techniques and tools that may help to transform the society.  
+Drones can help to make agriculture more productive and sustainable. However, to
+properly exploit their potential,  it is necessary to test concepts, techniques and tools able to collect, process, and analyze data and produce useful information to support farmers and help them achieve their targets.
 
 ### Organization
 
-[#### Satellite Remote Sensing]
+1. Project Preparation
 
-[#### UAV Remote Sensing]
+2. Flight Planning
+
+3. Data Collection
+
+4. Data Pre-processing
+
+5. Data Processing
+
+6. Data Analysis
+
+
+### Links
 
 ### Contact
 
