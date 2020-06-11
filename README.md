@@ -5,20 +5,21 @@ properly exploit their potential,  it is necessary to test concepts, techniques 
 
 ### Organization
 
-1. Project Preparation
+#### 1. Project Preparation
 
-2. Flight Planning
+#### 2. Flight Planning
+   
    - [PhenoFly Planning Tool](https://shiny.usys.ethz.ch/PhenoFlyPlanningTool/)
-     - [Supporting article by Roth et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30598692/)
+  
+      - [Supporting article by Roth et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30598692/)
 
-3. Data Collection
+#### 3. Data Collection
 
-4. Data Pre-processing
+#### 4. Data Pre-processing
 
-5. Data Processing
+#### 5. Data Processing
 
-6. Data Analysis
-
+#### 6. Data Analysis
 
 ### Links
 
