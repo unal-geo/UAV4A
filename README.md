@@ -8,10 +8,9 @@ properly exploit their potential,  it is necessary to test concepts, techniques 
 #### 1. Project Preparation
 
 #### 2. Flight Planning
-   
-        - [PhenoFly Planning Tool](https://shiny.usys.ethz.ch/PhenoFlyPlanningTool/)
-  
-           - [Supporting article by Roth et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30598692/)
+
+##### [PhenoFly Planning Tool](https://shiny.usys.ethz.ch/PhenoFlyPlanningTool/)
+##### [Supporting article by Roth et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30598692/)
 
 #### 3. Data Collection
 
