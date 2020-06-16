@@ -7,20 +7,28 @@ properly exploit their potential,  it is necessary to test concepts, techniques 
 
 Here you will find code and tutorials contributed by researchers at Universidad Nacional de Colombia, Universidad Distrital Francisco José de Caldas, and other academic institutions.
 
-#### Project Preparation
+#### 1. Project Preparation
 
-#### Flight Planning
+- ...
+
+#### 2. Flight Planning
 
 - [PhenoFly Planning Tool](https://shiny.usys.ethz.ch/PhenoFlyPlanningTool/)
 - [Supporting article by Roth et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30598692/)
 
-#### Data Collection
+#### 3. Data Collection
 
-#### Data Pre-processing
+- ...
 
-#### Data Processing
+#### 4. Data Pre-processing
 
-#### Data Analysis
+- ...
+
+#### 5. Data Processing
+
+- ...
+
+#### 6. Data Analysis
 
 - [Mapping potato late blight - 1](https://jorlrodriguezg.github.io/Mapping_potato_late_blight_from_UAV-based_multispectral_imagery.html)
 - [Mapping potato late blight - 2](https://jorlrodriguezg.github.io/Multispectral_imagery_classification_using_pre-trained_models.html)
